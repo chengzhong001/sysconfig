@@ -1,4 +1,4 @@
-#!/usr/bin/sh
+#!/bin/sh
 
 if [ -d ~/.pip ]; then
     echo "~/.pip directory is exist"
